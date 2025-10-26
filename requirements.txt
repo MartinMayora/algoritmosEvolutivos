@@ -1,0 +1,19 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+pillow>=9.5.0
+
+=ninja>=1.11.0
+imageio-ffmpeg==0.4.3
+
+deap>=1.4.0
+
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+
+facenet-pytorch>=2.5.0  # Para embeddings faciales
+timm>=0.9.0  # Para clasificador de género
+
+opencv-python>=4.8.0
+scipy>=1.11.0
